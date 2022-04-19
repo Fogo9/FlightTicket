@@ -99,6 +99,5 @@ public class flightticket{
 
             System.out.println("You Entered Wrong Data !");
         }
-
     }
 }
