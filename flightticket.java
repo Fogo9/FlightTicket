@@ -94,7 +94,6 @@ public class flightticket{
                     System.out.print("Total Amount :" + totalamount + " TL ");
 
                 }
-
             }
         }else{
 
