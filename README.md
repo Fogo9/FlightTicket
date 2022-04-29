@@ -1,14 +1,14 @@
 # **FLIGHT TICKET**
 
-# Information
+## INFORMATION
 
 * **Calculates discounted flight tickets by entering age and km information.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * perKM is defined with double because it is a decimal number.
 
@@ -20,7 +20,7 @@
 
 * No discount will be applied when age information is entered outside the specified ages.
 
-# Codes
+## CODES
 
 ```Java
 
@@ -214,13 +214,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/FlightTicket.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
