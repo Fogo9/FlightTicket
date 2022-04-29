@@ -20,8 +20,6 @@
 
 * No discount will be applied when age information is entered outside the specified ages.
 
-<br />
-
 # Codes
 
 ```Java
